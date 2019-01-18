@@ -6,8 +6,6 @@ You need to load the pb library before downloading it to see the https://www.tec
 To install, enter the terminal `pip install virtualenv` command.
 - Firefox Browser
 
-If you have problems with the installation, you can contact us by specifying your computer's operating system.
-
 
 method of project convergence
 1) Unzip the FlatScrape.zip file.
@@ -22,4 +20,3 @@ The project is being switched off
 5) then python -c 'import analysis; execute analysis.scrape_apartment ("$ {search_address}")'. here you can write $ {search_address} the address you want. 
 For example: python -c 'import analysis; analysis.scrape_apartment("Scotland, UK")'
 
-Please tell us whenever any problems occur.
