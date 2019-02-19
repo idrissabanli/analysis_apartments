@@ -6,13 +6,13 @@
 - Virtual Environment Python
 You need to load the pb library before downloading it to see the https://www.tecmint.com/install-pip-in-linux/
 To install, enter the terminal `pip install virtualenv` command.
-- Firefox Browser
-- Mozilla Geckodriver
+- Firefox Browser > 60.0
+- Mozilla Geckodriver 23.0
 
 
 ## Method of project convergence ##
 1) Run the command line and enter the folder by typing the cd ApartmentScrape.
-2) Enter the command "virtualenv venv". If everything is fine, you'll see "well done".
+2) Enter the command `virtualenv venv`. If everything is fine, you'll see "well done".
 3) Enter the `source venv/bin/active` command
 4) Enter the `pip install -r requirements.txt` command.
 
