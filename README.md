@@ -7,7 +7,7 @@
 You need to load the pb library before downloading it to see the https://www.tecmint.com/install-pip-in-linux/
 To install, enter the terminal `pip install virtualenv` command.
 - Firefox Browser > 60.0
-- Mozilla Geckodriver 23.0
+- Mozilla Geckodriver 0.23.0
 
 
 ## Method of project convergence ##
